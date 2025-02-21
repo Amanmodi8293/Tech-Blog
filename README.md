@@ -2,6 +2,8 @@ TechBlog
 
 Overview
 
+![Image](https://github.com/user-attachments/assets/43723514-0b47-402c-9259-ba5a5e753b98)
+
 TechBlog is a web-based blogging platform designed to allow users to read, write, and manage technical articles. The project is built to provide a seamless and interactive user experience for tech enthusiasts who wish to share and explore technical content.
 
 Technologies Used
