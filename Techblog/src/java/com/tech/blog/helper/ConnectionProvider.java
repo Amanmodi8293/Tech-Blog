@@ -11,7 +11,7 @@ public class ConnectionProvider {
                 
 //            Create connection
 
-                con = DriverManager.getConnection("jdbc:mysql://localhost:3306/javablog", "root", "Aman@?12");
+                con = DriverManager.getConnection("jdbc:mysql://localhost:3306/javablog", "", "");
                 
                 
             }
